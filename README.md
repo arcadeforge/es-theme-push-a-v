@@ -1,9 +1,17 @@
 Emulationstation Theme: push-a-v
 
-feel free to use in your projects
+made for 15khz CRTs 320x240px / 240x320px :D vertical setup.  Use pi2scart or pi2jamma to connect your Rpi to a CRT.
 
-made for 15khz CRTs 320x240px / 240x320px :D
+* Installation
+  * This is installable via RetroPie-Setup
 
-unzip this content in:
+Following cores are supported
 
-/opt/retropie/configs/all/emulationstation/themes/push-a-v/
+arcade
+colecovision
+fba
+mame
+megadrive
+neogeo
+
+This is a theme made by Asche76. 
